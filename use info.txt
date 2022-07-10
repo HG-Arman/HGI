@@ -1,0 +1,11 @@
+Use this tool in termux cmd
+
+cd
+cd HGIF
+chmod +x install.sh
+./install.sh
+exit
+
+❤️Tnq Use Our tool
+
+join our WhatsApp group
